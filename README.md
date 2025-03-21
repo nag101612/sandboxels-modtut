@@ -2,7 +2,7 @@
 This tutorial is going to be helpful for people who don't know how to mod for Sandboxels.
 ## Table of contents
 - [Installing the game locally](#installing-the-game-locally)
-- [Creating a mod](creating-a-mod)
+- [Creating a mod](#creating-a-mod)
 ## Installing the game locally
 To install Sandboxels locally, you have to download it from the [Sandboxels Github page](https://www.github.com/R74nCom/sandboxels). After extracting the ZIP file, open `index.html`, and now you're ready to test your mods!
 
